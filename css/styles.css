@@ -374,6 +374,7 @@ align-items: center;
 }
 
 .sub-container {
+  margin-left: 80px;
 }
 
 .sub-form {
@@ -866,7 +867,7 @@ color: #404BBF
 .modal-field {
   margin-bottom: 8px;
 }
-
+      
 .modal-input {
   width: 100%;
   height: 40px;
